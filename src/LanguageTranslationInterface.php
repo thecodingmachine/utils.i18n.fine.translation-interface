@@ -7,6 +7,7 @@
 namespace Mouf\Utils\I18n\Fine;
 
 use Mouf\Utils\I18n\Fine\LanguageDetectionInterface;
+
 /**
  * The language translation interface is used to fix the the model of the translate object to make a translation
  * This interface contain only on method getTranslation.
