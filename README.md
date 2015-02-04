@@ -1,7 +1,7 @@
 What is this package
 ====================
 
-This package contains two interfaces shared by all translation services. The `LanguageDetectionInterface` is used to detect the current language for the user while the `LanguageTranslationInterface` is used to translate strings.
+This package contains two interfaces shared by all translation services. The `LanguageDetectionInterface` is used to detect the current language for the user while the `TranslatorInterface` is used to translate strings.
 
 A list of packages using those interfaces:
 TODO link

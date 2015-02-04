@@ -15,7 +15,7 @@ use Mouf\Utils\I18n\Fine\LanguageDetectionInterface;
  * @author Marc TEYSSIER
  *
  */
-interface LanguageTranslationInterface {
+interface TranslatorInterface {
 	/**
 	 * Get the translation of a message or a code
 	 * This funcvtion return the translate string

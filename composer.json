@@ -1,6 +1,6 @@
 {
     "name": "mouf/utils.i18n.fine.translation-interface",
-    "description": "This package contains two interfaces shared by all translation services. The LanguageDetectionInterface is used to detect the current language for the user while the LanguageTranslationInterface is used to translate strings.",
+    "description": "This package contains two interfaces shared by all translation services. The LanguageDetectionInterface is used to detect the current language for the user while the TranslatorInterface is used to translate strings.",
     "keywords": ["mouf", "i18n", "translation"],
     "homepage": "https://mouf-php.com/mouf/utils.i18n.fine.translation-interface",
     "type": "library",
