@@ -36,7 +36,7 @@ A typical *composer.json* file might look like this:
             "mouf/mouf": "~2.0.0",
             "mouf/utils.i18n.fine.translation-interface": "~4.0",
             "mouf/utils.i18n.fine.language-detection": "~4.0",
-            "mouf/utils.i18n.fine.file-translation": "~4.0",
+            "mouf/utils.i18n.fine.file-translator": "~4.0",
             "mouf/utils.i18n.fine.manage.bo": "~4.0",
             "mouf/utils.i18n.fine.common": "~4.0"
         },
